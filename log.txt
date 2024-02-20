@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-02-20T07:58:43.815866200Z</date>
+  <millis>1708415923815</millis>
+  <nanos>866200</nanos>
+  <sequence>0</sequence>
+  <logger>Calc Log: </logger>
+  <level>INFO</level>
+  <class>impl.CalcLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Результат: 55.0 + 33.0i
+</message>
+</record>
+</log>
